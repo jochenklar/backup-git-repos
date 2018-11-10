@@ -1,0 +1,5 @@
+__title__ = 'backup-git-repos'
+__version__ = '0.1.0'
+__author__ = 'Jochen Klar'
+__email__ = 'jochenklar@gmail.com'
+__license__ = 'MIT'

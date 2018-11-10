@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+*~
+*-
+*.swp
+.DS_Store
+
+build
+dist
+*.egg-info
+
+env
+env3
+
+*.yml
