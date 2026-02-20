@@ -1,3 +1,10 @@
+
+---
+
+🚫 **Discontinued.** This repository is no longer actively maintained.
+
+---
+
 backup-git-repos
 ================
 
